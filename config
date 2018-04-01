@@ -1,0 +1,6 @@
+# CAEN
+Host cs
+	HostName login.engin.umich.edu
+	User shuchris
+	Compression yes
+
